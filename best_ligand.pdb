@@ -1,0 +1,38 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     13  HN  UNK N   1      10.541  20.158  21.544  1.00  0.00      prot H  
+ATOM     16  HN  UNK N   1       6.786  19.713  23.145  1.00  0.00      prot H  
+ATOM     24  HN  UNK N   1      14.722  21.389  23.688  1.00  0.00      prot H  
+TER      25      UNK N   1 
+HETATM    1  C   UNK N   1       9.064  18.444  20.106  0.00  0.00      prot C  
+HETATM    2  C   UNK N   1       8.874  19.157  18.893  0.00  0.00      prot C  
+HETATM    3  C   UNK N   1      10.797  17.081  18.989  0.00  0.00      prot C  
+HETATM    4  C   UNK N   1      10.037  17.408  20.143  0.00  0.00      prot C  
+HETATM    5  C   UNK N   1       9.619  18.818  17.761  0.00  0.00      prot C  
+HETATM    6  C   UNK N   1      10.561  17.803  17.811  0.00  0.00      prot C  
+HETATM    7  C   UNK N   1       7.870  20.278  18.783  0.00  0.00      prot C  
+HETATM    8  N   UNK N   1       8.300  18.817  21.269  0.00  0.00      prot N  
+HETATM    9  C   UNK N   1       8.616  19.844  22.206  0.00  0.00      prot C  
+HETATM   10  N   UNK N   1       9.839  20.441  22.229  0.00  0.00      prot N  
+HETATM   11  N   UNK N   1       7.691  20.183  23.143  0.00  0.00      prot N  
+HETATM   12  C   UNK N   1      10.152  21.406  23.139  0.00  0.00      prot C  
+HETATM   14  C   UNK N   1       9.184  21.773  24.091  0.00  0.00      prot C  
+HETATM   15  C   UNK N   1       7.950  21.132  24.075  0.00  0.00      prot C  
+HETATM   17  H   UNK N   1       7.447  18.279  21.478  0.00  0.00      prot H  
+HETATM   18  C   UNK N   1      11.510  22.028  23.106  0.00  0.00      prot C  
+HETATM   19  C   UNK N   1      11.655  23.372  22.710  0.00  0.00      prot C  
+HETATM   20  C   UNK N   1      12.918  23.961  22.668  0.00  0.00      prot C  
+HETATM   21  C   UNK N   1      14.036  23.214  23.032  0.00  0.00      prot C  
+HETATM   22  N   UNK N   1      13.893  21.921  23.420  0.00  0.00      prot N  
+HETATM   23  C   UNK N   1      12.676  21.315  23.461  0.00  0.00      prot C  
+HETATM   25  N   UNK N   1      11.824  16.069  18.943  0.00  0.00      prot N  
+HETATM   26  C   UNK N   1      12.572  15.672  17.861  0.00  0.00      prot C  
+HETATM   27  O   UNK N   1      12.438  16.220  16.780  0.00  0.00      prot O  
+HETATM   28  H   UNK N   1      12.030  15.629  19.845  0.00  0.00      prot H  
+HETATM   29  C   UNK N   1      13.612  14.587  17.990  0.00  0.00      prot C  
+HETATM   30  C   UNK N   1      13.556  13.701  19.086  0.00  0.00      prot C  
+HETATM   31  C   UNK N   1      14.491  12.668  19.222  0.00  0.00      prot C  
+HETATM   32  C   UNK N   1      15.504  12.499  18.268  0.00  0.00      prot C  
+HETATM   33  C   UNK N   1      15.582  13.384  17.187  0.00  0.00      prot C  
+HETATM   34  C   UNK N   1      14.653  14.415  17.045  0.00  0.00      prot C  
+HETATM   35  C   UNK N   1      16.501  11.382  18.394  0.00  0.00      prot C  
+HETATM   36 Cl   UNK N   1      17.990  11.784  17.500  0.00  0.00      protCl  
